@@ -185,8 +185,8 @@ python scripts/get_vendor_summary.py
 ## Author & Contact
 
 **Nancy Prajapati**
-Data Analyst
+Fresher Data Analyst
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 🔗 [LinkedIn](#)
-* 🔗 [Portfolio](#)
+* 📧 Email: [nancy.prajapati.ds.2022@mitmeerut.ac.in](mailto:nancy.prajapati.ds.2022@mitmeerut.ac.in)
+* 🔗 [LinkedIn]([#](https://www.linkedin.com/in/nancy-p-497699258/))
+* 🔗 [Portfolio]([#](https://nancypraj936.github.io/))
